@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mhdev.fr](https://mhdev.fr)
 
-- 📄 Know about my experiences I'm passionate about development since 8 months
+- 📄 Know about my experiences I'm passionate about development since 8 months !
 
 - ⚡ Fun fact **Yes it take me 10 minutes to make this github Profile.**
 
