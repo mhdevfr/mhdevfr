@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an AI project made with love <3**
 
-- 🌱 I’m currently learning **SEO improving !** :D
+- 🌱 I’m currently learning **SEO improving !** 
 
 - 👨‍💻 All of my projects are available at [https://mhdev.fr](https://mhdev.fr)
 
