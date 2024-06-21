@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Милане !</h1> 
-<h3 align="center">A passionate Front-End developer from France, I love UI/UX Web development !</h3>
+<h3 align="center">A passionate Front-End developer from France, I love UI/UX Web development </h3>
 
 - 🔭 I’m currently working on **an AI project made with love <3**
 
