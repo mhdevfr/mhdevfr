@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Милане !
+<h1 align="center">Hi 👋! I'm Милане
 </h1> 
 <h3 align="center">A passionate Front-End developer from France, I love UI/UX Web development </h3>
 
