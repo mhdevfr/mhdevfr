@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** from Fran
 
 - 💡 **Creative Mindset**: Crafting immersive **UI/UX experiences** that combine functionality and aesthetics.
 - 🛠️ **Current Focus**: Building a dynamic **AI-driven project** while mastering advanced **SEO strategies**.
-- 🌐 **Portfolio**: Explore all my projects at [mhdev.fr](https://mhdev.fr) 🌐
+- 🌐 **Portfolio**: Explore all my projects at [Flink](https://flink-agency.dev) 🌐
 - 📓 **Experience**: A developer with 8+ months of non-stop learning and coding passion.
 - 🚀 **Fun Fact**: I crafted my entire GitHub profile in less than 10 minutes!
 
@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** from Fran
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white)
 
 ---
 
@@ -50,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** from Fran
 
 If you share a passion for building impactful and creative web projects, feel free to reach out. Let’s transform your ideas into reality!
 
-> 📧 [Reach me via email](mailto:contact@mhdev.fr)
+> 📧 [Reach me via email](mailto:mhdev@flink-agency.dev)
 
 ---
 
