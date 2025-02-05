@@ -1,22 +1,58 @@
-<h1 align="center">Hi 👋 I'm Милане 
-</h1> 
-<h3 align="center">A passionate Front-End developer from France, I love UI/UX Web development </h3>
+# Hi there! 👋 I'm **Milan**
 
-- 🔭 I’m currently working on **an AI project made with love **
+> _"Transforming ideas into beautiful and functional web experiences."_
 
-- 🌱 I’m currently learning **SEO improving !** 
+Welcome to my GitHub profile! I'm a passionate **Front-End Developer** from France who thrives on building innovative and user-centric web applications. Here, you'll find a blend of creativity, performance, and cutting-edge technologies.
 
-- 👨‍💻 All of my projects are available at [https://mhdev.fr](https://mhdev.fr)
+---
 
-- 📄 Know about my experiences, I'm passionate about development since 8 months 
+### 🎨 About Me
 
-- ⚡ Fun fact **Yes it take me 10 minutes to make this github Profile.**
+- 💡 **Creative Mindset**: Crafting immersive **UI/UX experiences** that combine functionality and aesthetics.
+- 🛠️ **Current Focus**: Building a dynamic **AI-driven project** while mastering advanced **SEO strategies**.
+- 🌐 **Portfolio**: Explore all my projects at [mhdev.fr](https://mhdev.fr) 🌐
+- 📓 **Experience**: A developer with 8+ months of non-stop learning and coding passion.
+- 🚀 **Fun Fact**: I crafted my entire GitHub profile in less than 10 minutes!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/milanherbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan herbé" height="30" width="40" /></a>
-<a href="www.youtube.com/@mhdevfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhdevfr" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhdev)
+[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/mhdev)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🎮 Fun Corner
+
+- 🌟 **Favorite Tech Quote**: _"Any sufficiently advanced technology is indistinguishable from magic."_
+- 🎮 **Hobbies**: Gaming, exploring futuristic tech, and tweaking UI animations with **GSAP**!
+
+---
+
+### 🌍 Let's Collaborate!
+
+If you share a passion for building impactful and creative web projects, feel free to reach out. Let’s transform your ideas into reality!
+
+> 📧 [Reach me via email](mailto:contact@mhdev.fr)
+
+---
+
+**Thank you for visiting my profile!**
+
