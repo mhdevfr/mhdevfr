@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** from Fran
 ### 🎮 Fun Corner
 
 - 🌟 **Favorite Tech Quote**: _"Any sufficiently advanced technology is indistinguishable from magic."_
-- 🎮 **Hobbies**: Gaming, exploring futuristic tech, and tweaking UI animations with **GSAP**!
+- 🎮 **Hobbies**: Ghibli, exploring futuristic tech, and tweaking UI animations with **GSAP**!
 
 ---
 
