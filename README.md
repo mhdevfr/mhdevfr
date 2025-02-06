@@ -54,7 +54,6 @@ If you share a passion for building impactful and creative web projects, feel fr
 > 📧 [Reach me via email](mailto:mhdev@flink-agency.dev)
 
 ---
----
 
 [![mhdevfr Nuxter profile](https://nuxters.nuxt.com/card/mhdevfr/og.png)](https://nuxters.nuxt.com/mhdevfr)
 
