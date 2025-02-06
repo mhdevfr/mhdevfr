@@ -56,4 +56,4 @@ If you share a passion for building impactful and creative web projects, feel fr
 ---
 
 **Thank you for visiting my profile!**
-
+[![mhdevfr Nuxter profile](https://nuxters.nuxt.com/card/mhdevfr/og.png)](https://nuxters.nuxt.com/mhdevfr)
