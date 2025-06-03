@@ -5,8 +5,6 @@
 
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** from France who thrives on building innovative and user-centric web applications. Here, you'll find a blend of creativity, performance, and cutting-edge technologies.
 
-https://www.canva.com/design/DAGjRkNYZ-A/2rqx7UY_gGOp1Q9vKMS11Q/edit?utm_content=DAGjRkNYZ-A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 ---
 
 ### 🎨 About Me
