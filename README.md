@@ -1,4 +1,4 @@
-# Hi 👋 I'm **Milan** 
+# Hi 👋 I'm **Milan** !
 > _"Transforming ideas into beautiful and functional web experiences."_
 > 
 
