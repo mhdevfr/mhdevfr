@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from Fra
 ---
 
 ## 🚀 FlexCommerce - Featured Project
+![ezgif-8cefba917c46a8](https://github.com/user-attachments/assets/38ea6d39-d83d-4576-9ba5-281b8dd0faee)
 
-![Uploading ezgif-8cefba917c46a8.gif…]()
+
 
 
 **Full-Stack E-Commerce Template** | *Built, Designed and Launched by Flink Agency*
