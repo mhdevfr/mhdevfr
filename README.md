@@ -5,13 +5,15 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from Fra
 
 ---
 
-## 🚀 FlexCommerce - Featured Project Available SOON
+## 🚀 FlexCommerce - Featured Project
 
-![FlexCommerce Demo]([https://github.com/mhdevfr/mhdevfr/blob/main/assets/ecommerce.gif?raw=true](https://yorcxoxppntijhczosha.supabase.co/storage/v1/object/public/pictures//Rendermusic-ezgif.com-video-to-gif-converter.gif))
-
+![FlexCommerce Demo](https://yorcxoxppntijhczosha.supabase.co/storage/v1/object/public/pictures/Rendermusic-ezgif.com-video-to-gif-converter.gif)
 
 **Full-Stack E-Commerce Template** | *Built, Designed and Launched by Flink Agency*
 
+> 🎬 [**Watch Full Demo on YouTube**](https://youtu.be/tzSETMCXHls) | 🌐 [**Visit Flink Agency**](https://flink-agency.dev)
+
+---
 
 ### 🎨 About Me
 
@@ -41,26 +43,4 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from Fra
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white)
-
----
-
-### 🎮 Fun Corner
-
-- 🌟 **Favorite Tech Quote**: _"Any sufficiently advanced technology is indistinguishable from magic."_
-- 🎮 **Hobbies**: Ghibli, exploring futuristic tech, and tweaking UI animations with **GSAP**!
-
----
-
-### 🌍 Let's Collaborate!
-
-If you share a passion for building impactful and creative web projects, feel free to reach out. Let's transform your ideas into reality!
-
-> 📧 [Reach me via email](mailto:mhdev@flink-agency.dev)
-
----
-
-**Thank you for visiting my profile!**
-
+![Vite](https://
