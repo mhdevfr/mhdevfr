@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from Fra
 
 **Full-Stack E-Commerce Template** | *Built, Designed and Launched by Flink Agency*
 
-> 🎬 [**Watch Full Demo on YouTube**](https://ecom-template-supabase.vercel.app/) | 🌐 [**Visit Flink Agency**](https://flink-agency.dev)
+>  [**Take a look at Full Demo**](https://ecom-template-supabase.vercel.app/) | 🌐 [**Visit Flink Agency**](https://flink-agency.dev)
 
 ---
 
