@@ -1,8 +1,18 @@
 # Hi 👋 I'm **Milan** 
 > _"Transforming ideas into beautiful and functional web experiences."_
-> 
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from France who thrives on building innovative and user-centric web applications. Here, you'll find a blend of creativity, performance, and cutting-edge technologies.
+
+---
+
+## 🎬 Featured Project
+
+**FlexCommerce** - Full-Stack E-Commerce Template  
+*Build, Designed and Launch by Flink Agency*
+
+[![FlexCommerce Trailer](https://img.youtube.com/vi/tzSETMCXHls/maxresdefault.jpg)](https://youtu.be/tzSETMCXHls)
+
+> 🚀 **Coming Soon**: The complete full-stack e-commerce template that combines performance, aesthetics, and cutting-edge technology.
 
 ---
 
@@ -49,13 +59,11 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from Fra
 
 ### 🌍 Let's Collaborate!
 
-If you share a passion for building impactful and creative web projects, feel free to reach out. Let’s transform your ideas into reality!
+If you share a passion for building impactful and creative web projects, feel free to reach out. Let's transform your ideas into reality!
 
 > 📧 [Reach me via email](mailto:mhdev@flink-agency.dev)
 
 ---
 
-
----
-
 **Thank you for visiting my profile!**
+
