@@ -1,9 +1,4 @@
-# Hi 👋 I'm **Milan** 
-> _"Transforming ideas into beautiful and functional web experiences."_
-
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** from France who thrives on building innovative and user-centric web applications.
-
----
+# Hi 👋 I'm **Milan Full-Stack Developer in Progress** 
 
 ## 🚀 FlexCommerce - Featured Project
 ![ezgif-8cefba917c46a8](https://github.com/user-attachments/assets/38ea6d39-d83d-4576-9ba5-281b8dd0faee)
