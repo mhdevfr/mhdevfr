@@ -1,4 +1,4 @@
-# Hi 👋 I'm **Milan Full-Stack Developer in Progress** 
+# Hi 👋 I'm **Milan Full-Stack Developer in Progress**
 
 Currently improving my Units Tests using Vitest & Vue Test Utils.
 
