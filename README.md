@@ -1,27 +1,22 @@
-# Hi 👋 I'm **Milan Full-Stack Developer in Progress** !
+# Hi 👋 I'm **Milan a Full-Stack Developer Junior ** !
 
-Currently improving my Units Tests using Vitest & Vue Test Utils.
+Currently improving my Units Tests using Vitest & Vue Test Utils and I'm everyday using green stack to work !
 
-## 🚀 FlexCommerce - Featured Project
+## 🚀 Ma-plante - Last Project
 ![ezgif-8cefba917c46a8](https://github.com/user-attachments/assets/38ea6d39-d83d-4576-9ba5-281b8dd0faee)
 
 
+**Full-Stack E-Commerce Marketplace** | *Built, Designed and Launched by Flink Agency*
 
-
-**Full-Stack E-Commerce Template** | *Built, Designed and Launched by Flink Agency*
-
-> 📦 [**Take a look at Full Demo**](https://ecom-template-supabase.vercel.app/) | 🌐 [**Visit Flink Agency**](https://flink-agency.dev)
+> 📦 [**Take a look at Full Demo**](https://ma-plante.com/) | 🌐 [**Visit Flink Agency**](https://flink-agency.dev)
 
 ---
 
 ### 🎨 About Me
 
 - 💡 **Creative Mindset**: Crafting immersive **UI/UX experiences** that combine functionality and aesthetics.
-- 🛠️ **Current Focus**: Building a dynamic **AI-driven project** while mastering advanced **SEO strategies**.
 - 🌐 **Portfolio**: Explore all my projects at [Flink](https://flink-agency.dev) 🌐
-- 📓 **Experience**: A developer with 8+ months of non-stop learning and coding passion.
-- 🚀 **Fun Fact**: I crafted my entire GitHub profile in less than 10 minutes!
-
+- 📓 **Experience**: A developer with 2 years of non-stop learning and coding passion.
 ---
 
 ### 🔗 Connect With Me
