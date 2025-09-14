@@ -1,4 +1,4 @@
-# Hi 👋 I'm **Milan a Full-Stack Developer Junior ** !
+# Hi 👋 I'm Milan a Full-Stack Developer Junior  !
 
 Currently improving my Units Tests using Vitest & Vue Test Utils and I'm everyday using green stack to work !
 
