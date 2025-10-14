@@ -2,6 +2,8 @@
 
 Currently improving my Units Tests using Vitest & Vue Test Utils and I'm everyday using green stack to work !
 
+14 - 10 - 2025 Trying to figure out how to master capacitor with my greenstack
+
 ## 🚀 Ma-plante - Last Project
 ![ezgif-8cefba917c46a8](https://github.com/user-attachments/assets/38ea6d39-d83d-4576-9ba5-281b8dd0faee)
 
