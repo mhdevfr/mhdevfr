@@ -1,16 +1,12 @@
 # Hi 👋 I'm Milan a Full-Stack Developer Junior  
 
-Currently improving my Units Tests using Vitest & Vue Test Utils and I'm everyday using green stack to work !
-
-14 - 10 - 2025 Trying to figure out how to master capacitor with my greenstack
-
-
+24 - 03 - 2026 We're grinding the game bro
 
 ### 🎨 About Me
 
 - 💡 **Creative Mindset**: Crafting immersive **UI/UX experiences** that combine functionality and aesthetics.
-- 🌐 **Portfolio**: Explore all my projects at [Flink](https://flink-agency.dev) 🌐
-- 📓 **Experience**: A developer with 2 years of non-stop learning and coding passion.
+- 🌐 **Portfolio**: Explore all my projects at [Flink](https://flink-agency.com) 🌐
+- 📓 **Experience**: A developer with 4 years of non-stop learning and coding passion.
 ---
 
 ### 🔗 Connect With Me
